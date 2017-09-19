@@ -1,0 +1,16 @@
+{
+  "name": "neeo-octava",
+  "version": "1.0.0",
+  "description": "Neeo Driver for controlling Ocatava UDH41-ARC",
+  "main": "index.js",
+  "dependencies": {
+    "neod-sdk": "*",
+    "serialport": *"
+  },
+  "keywords": [
+    "neeo",
+    "octava"
+  ],
+  "author": "Anders Oedlund",
+  "license": "ISC"
+}
